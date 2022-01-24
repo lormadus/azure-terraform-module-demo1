@@ -9,5 +9,4 @@ variable "rgname" {
 variable "location" {
     type = string
     description = "Azure location of storage account environment"
-    default = "westus2"
 }
